@@ -9,7 +9,7 @@ package BaiTap2;
  *
  * @author Admin
  */
-public class BaiTap2Main {
+public class MainBT2 {
 
     public static void main(String[] args){   
         MyStringBuilder str = new MyStringBuilder.Builder()
